@@ -4,6 +4,7 @@ print
 Player_1_name = raw_input("Player 1 Name: ")
 Player_2_name = raw_input("Player 2 Name: ")
 
+print
 print "Here are my scoring rules:"
 print "Gin Bonus is +25."
 print "Big Gin Bonus is +31."
