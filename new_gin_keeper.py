@@ -1,4 +1,4 @@
-print "Welcome to the Gin Rummy Scorekeeper. I'm Gonzalo."
+print "Welcome to the Gin Rummy Scorekeeper."
 print
 
 Player_1_name = raw_input("Player 1 Name: ")
