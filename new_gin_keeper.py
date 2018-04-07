@@ -4,7 +4,15 @@ print
 Player_1_name = raw_input("Player 1 Name: ")
 Player_2_name = raw_input("Player 2 Name: ")
 
-
+print "Here are my scoring rules:"
+print "Gin Bonus is +25."
+print "Big Gin Bonus is +31."
+print "If there is no round winner, no points are awarded including Gin and Big Gin bonuses."
+print "No Undercut bonus."
+print "Line Bonus is +25 per hand won."
+print "Game Bonus is +100 for winner."
+print "Shoutout Bonus doubles total score before Line and Game bonuses to winner."
+print
 
 score_max = int(input("What score are you playing to? "))
 
