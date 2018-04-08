@@ -148,10 +148,10 @@ if score_1 >= score_max and score_1 > score_2:
         score_1 += score_1
     score_1 += (wins1 * 25)    
     score_1 += 100
-    print Player_2_name, "has won the game", score_2, "to", score_1
+    print Player_1_name, "has won the game", score_1, "to", score_2
 elif score_2 >= score_max and score_2 > score_1:
     if wins2 ==0:
         score_2 += score_2
     score_2 += (wins2 * 25)
     score_2 += 100
-    print Player_1_name, "has won the game", score_1, "to", score_2
+    print Player_2_name, "has won the game", score_2, "to", score_1
