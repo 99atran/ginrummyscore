@@ -6,8 +6,8 @@ Player_2_name = raw_input("Player 2 Name: ")
 
 print
 print "Here are my scoring rules:"
-print "Gin Bonus is +25."
-print "Big Gin Bonus is +31."
+print "10-Card Gin Bonus is +25."
+print "11-Card Big Gin Bonus is +31."
 print "If there is no round winner, no points are awarded including Gin and Big Gin bonuses."
 print "No Undercut bonus."
 print "Line Bonus is +25 per hand won."
