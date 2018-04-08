@@ -4,11 +4,11 @@ The purpose of the project is to provide players the ability to play Gin Rummy w
 
 ## Getting Started and Installation
 
-This program requires Python 2.7 and the Gin Rummy file which can be downloaded from this repository: new_gin_keeper.py. You can find the download for Python at https://www.python.org/downloads/. Windows is the recommended OS.
+This program requires Python 2.7 and the Gin Rummy repository zip file. You can find the download for Python at https://www.python.org/downloads/. Windows is the recommended OS. Unzip file and open the file new_gin_keeper.py
 
 ## Testing and Use
 
-Use integers when prompted with number responses. The program will fail if an input doesn't match the requested answer type.
+To increase or decrease the font size, style, etc., right click the command title bar and select 'Properties'. Then select the 'Font' tab and make any changes as necessary. Use integers when prompted with number responses. The program will fail if an input doesn't match the requested answer type.
 
 ### Built With
 Python 2.7.10 - Scripting 
