@@ -4,7 +4,7 @@ The purpose of the project is to provide players the ability to play Gin Rummy w
 
 ## Getting Started and Installation
 
-This program requires Python 2.7 (recommended or later and the Gin Rummy file which can be downloaded from this repository: new_gin_keeper.py. You can find the download for Python at https://www.python.org/downloads/. Windows is the recommended OS.
+This program requires Python 2.7 and the Gin Rummy file which can be downloaded from this repository: new_gin_keeper.py. You can find the download for Python at https://www.python.org/downloads/. Windows is the recommended OS.
 
 ## Testing and Use
 
