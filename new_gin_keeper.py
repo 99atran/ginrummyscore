@@ -14,6 +14,8 @@ print "Line Bonus is +25 per hand won."
 print "Game Bonus is +100 for winner."
 print "Shoutout Bonus doubles total score before Line and Game bonuses to winner."
 print
+print "For pre-scoring and set-matching rules, check out the Gin Rummy page on Wikipedia."
+print
 
 score_max = int(input("What score are you playing to? "))
 
